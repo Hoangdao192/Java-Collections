@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+application:
+  database:
+    mongodb:
+      crawler:
+        host: localhost
+        port: 27017
+        username: crawler
+        password: Hoangdao192@
+        database: crawler
+        authentication-database: admin
+      music-manager:
+        host: localhost
+        port: 27017
+        username: crawler
+        password: Hoangdao192@
+        database: music-manager
+        authentication-database: admin
