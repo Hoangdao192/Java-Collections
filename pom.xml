@@ -72,7 +72,8 @@
     <module>multiple-mongo</module>
           
     <module>threadpool-wrapper</module>
-      
+    <module>excel-mapper</module>
+
   </modules>
   
 </project>
