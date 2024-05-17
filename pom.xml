@@ -70,9 +70,9 @@
   <modules>
             
     <module>multiple-mongo</module>
-          
     <module>threadpool-wrapper</module>
     <module>excel-mapper</module>
+    <module>mongo-join-collections</module>
 
   </modules>
   
